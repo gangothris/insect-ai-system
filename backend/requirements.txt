@@ -1,0 +1,16 @@
+fastapi==0.95.2
+uvicorn
+python-multipart
+
+opencv-python
+numpy
+pillow
+
+ultralytics==8.4.19
+onnxruntime
+
+matplotlib
+python-dotenv
+groq
+
+pydantic==1.10.13
